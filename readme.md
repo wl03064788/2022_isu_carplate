@@ -1,5 +1,8 @@
 # ISU 2020 spring graduate Project
-## write by HsuKC on 23/05/20
+
+![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
+![build](https://img.shields.io/appveyor/ci/:user/:repo.svg)
+![chat](https://img.shields.io/discord/:serverId.svg)
 
 Project Timeline
 ---
@@ -16,3 +19,4 @@ gantt
 ```
 
 > Read more about mermaid here: http://mermaid-js.github.io/mermaid/
+##### write by HsuKC on 23/05/20
