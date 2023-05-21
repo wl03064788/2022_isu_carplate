@@ -20,3 +20,4 @@ gantt
 
 > Read more about mermaid here: http://mermaid-js.github.io/mermaid/
 ##### write by HsuKC on 23/05/20
+###### tags: `AIoT` `Cloud computing` 
