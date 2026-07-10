@@ -1,35 +1,34 @@
-# ISU 2020 Spring Graduate Project
+# ISU 2022 Graduate Project - Car Plate Recognition
 
-![CI](https://github.com/<your-org>/<your-repo>/actions/workflows/ci.yml/badge.svg)
-![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
-![chat](https://img.shields.io/discord/:serverId.svg)
+![CI Status](https://github.com/wl03064788/2022_ISU_carplate/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)
 
-## CI/CD Pipeline
+## 📋 Overview
 
-```mermaid
-flowchart LR
-    A[Push / Pull Request] --> B[GitHub Actions]
-    B --> C[Setup Python 3.11]
-    C --> D[Validate JSON]
-    D --> E[Python Syntax Check]
-    E --> F[Build Success]
-```
+This project focuses on car plate recognition using artificial intelligence and IoT technologies, developed as part of the 2022 ISU Graduate Program.
 
-## Project Timeline
+**Technologies:** `AIoT` `Cloud Computing` `Python` `Computer Vision`
 
-```mermaid
-gantt
-    title A Gantt Diagram
+---
 
-    section Section
-    A task           :a1, 2014-01-01, 30d
-    Another task     :after a1, 20d
-    section Another
-    Task in sec      :2014-01-12, 12d
-    Another task     :24d
-```
+## 🚀 Quick Start
 
-> Read more about Mermaid: http://mermaid-js.github.io/mermaid/
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run tests: `python -m pytest`
+4. Build the project: See CI/CD pipeline above
 
-##### Write by HsuKC on 23/05/20
-###### Tags: `AIoT` `Cloud computing`
+---
+
+## 📚 Resources
+
+- [Mermaid Documentation](http://mermaid-js.github.io/mermaid/)
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+
+---
+
+**Project Created:** May 2020  
+**Last Updated:** 2026  
+**Author:** HsuKC  
+**Repository:** wl03064788/2022_ISU_carplate
